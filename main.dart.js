@@ -43548,7 +43548,7 @@ h=J.bG(j)>1&&J.bk(j,1)!=null?B.c.cH(J.d7(J.bk(j,1).b)):""
 g=J.bG(j)>2&&J.bk(j,2)!=null?B.c.cH(J.d7(J.bk(j,2).b)):""
 f=J.bG(j)>5&&J.bk(j,5)!=null?B.c.cH(J.d7(J.bk(j,5).b)):""
 if(J.bG(i)===0&&J.bG(h)===0)continue
-J.f7(n,new A.hd(i,h,"Er\u0151m\u0171 ter\xfclete",g,f,"Eloszt\xf3 helyis\xe9g","Excelb\u0151l import\xe1lva",p));++o}}d=this.a
+J.f7(n,new A.hd(i,h,"",g,f,"","",p));++o}}d=this.a
 d.al(new A.aiN(d,n))
 d.c.ae(t.Pu).f.mW(A.C8(a1,a1,a1,B.j1,a1,B.Y,a1,A.f_("\u2713 Sikeresen beolvasva "+A.o(o)+" db berendez\xe9s az Excelb\u0151l! \xd6sszesen: "+d.Q.length+" db",a1,a1,a1,a1,a1,a1),a1,B.cD,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1))}catch(a0){e=A.aH(a0)
 this.a.c.ae(t.Pu).f.mW(A.C8(a1,a1,a1,B.ub,a1,B.Y,a1,A.f_("Hiba az Excel feldolgoz\xe1sakor: "+A.o(e),a1,a1,a1,a1,a1,a1),a1,B.cD,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1))}},
